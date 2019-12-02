@@ -1,2 +1,0 @@
-# hub
-Hub test project
